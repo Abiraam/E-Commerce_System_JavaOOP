@@ -1,7 +1,6 @@
 // Author: Abiraam Nagarajan
 // Filename: Products.java
 // Specification: Method to read products.txt doc and return a list of products and its info; Modifying / Updating the products list
-// For: CS 2365 Object Oriented Programming Section 002
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
