@@ -1,7 +1,6 @@
 // Author: Abiraam Nagarajan
 // Filename: Customers.java
 // Specification: Method for Customers read/write; Updating customer files if modifications are put forth
-// For: CS 2365 Object Oriented Programming Section 002
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
