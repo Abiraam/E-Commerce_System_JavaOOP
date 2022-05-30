@@ -1,8 +1,5 @@
 // Author: Abiraam Nagarajan
 // Filename: Main.java
-// Specification: Main class call to validate new users using their credentials; Follow-up actions related to products and carts --> read/ modifications
-// For: CS 2365 Object Oriented Programming Section 002
-
 
 import java.util.List;
 import java.util.Scanner;
