@@ -1,7 +1,6 @@
 // Author: Abiraam Nagarajan
 // Filename: LoginRegister.java
 // Specification: Validating new users and registering using their credentials, and generating and storing reward numbers
-// For: CS 2365 Object Oriented Programming Section 002
 
 import java.util.Random;
 import java.util.Scanner;
