@@ -1,7 +1,6 @@
 // Author: Abiraam Nagarajan
 // Filename: Carts.java
 // Specification: Method to read the carts text document and return a list of the cart items; Updates / modifications to the list of items in the cart
-// For: CS 2365 Object Oriented Programming Section 002
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
